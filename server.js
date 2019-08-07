@@ -99,4 +99,7 @@ server.delete('/:id', async (req, res) => {
   }
 });
 
+//Stretch
+//how many different cities are stored in the Customers table
+
 module.exports = server;
